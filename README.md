@@ -330,3 +330,7 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Jennifer Geacone-Cruz
+Content Infrastructure Designer, Linguistic Technologist, & Japanologist
+[Website](https://www.anomiseditrix.net) | [Speaking](https://www.anomiseditrix.net/public-speaking/) | [Twitter] (https://twitter.com/anomiseditrix) | [Github](https://github.com/anomiseditrix)
